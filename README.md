@@ -35,8 +35,8 @@ The dataset used in this project is publicly available on Kaggle:
    ```bash
    git clone https://github.com/your-username/Asteroid-Hazard-Classification.git
    cd Asteroid-Hazard-Classification
-Install the required dependencies:
-   -pip install -r requirements.txt
-   -Download the dataset from Kaggle and place it in the data/ directory.
-   -Open the Jupyter notebooks in the notebooks/ folder to explore and run the models.
+## Install the required dependencies:
+   - pip install -r requirements.txt
+   - Download the dataset from Kaggle and place it in the data/ directory.
+   - Open the Jupyter notebooks in the notebooks/ folder to explore and run the models.
 
