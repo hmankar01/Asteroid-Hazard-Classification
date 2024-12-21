@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+lightgbm
+matplotlib
+seaborn
+shap
+pip freeze > requirements.txt
